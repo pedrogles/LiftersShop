@@ -1,9 +1,9 @@
 /* Container */
 #container{
     height: 100vh;
-    background-color: #F5F5F5;
     display: flex;
     justify-content: center;
+    background-color: #F5F5F5;
 }
 /* Product Container */
 #product-container{
@@ -11,6 +11,7 @@
     flex-direction: row;
     justify-content: center;
     align-items: center;
+    background-color: #F5F5F5;
 }
 /*Photos*/
 .photos{
