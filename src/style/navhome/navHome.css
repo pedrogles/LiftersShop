@@ -1,0 +1,23 @@
+#nav-home{
+    display: flex;
+    align-items: center;
+    background-color: #000000;
+    height: 3.75em;
+    width: 100%;
+}
+.lifters-container{
+    margin-left: 100px;
+}
+.lifters-container h1{
+    color: #ffffff;
+    font-size: 1.25em;
+    font-family: 'Inter';
+    font-weight: 700;
+    letter-spacing: -0.6px;
+}
+
+@media (max-width: 860px){
+    .lifters-container{
+        margin-left: 2rem;
+    }
+}
